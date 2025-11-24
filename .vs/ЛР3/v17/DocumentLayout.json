@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stalt\\source\\repos\\\u041B\u04203\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEF2D34-CDCE-4F97-A0D2-904990C59ED8}|\u041B\u04203\\\u041B\u04203.vcxproj|C:\\Users\\stalt\\source\\repos\\\u041B\u04203\\\u041B\u04203\\\u041B\u04203.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFEF2D34-CDCE-4F97-A0D2-904990C59ED8}|\u041B\u04203\\\u041B\u04203.vcxproj|solutionrelative:\u041B\u04203\\\u041B\u04203.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041B\u04203.cpp",
+              "DocumentMoniker": "C:\\Users\\stalt\\source\\repos\\\u041B\u04203\\\u041B\u04203\\\u041B\u04203.cpp",
+              "RelativeDocumentMoniker": "\u041B\u04203\\\u041B\u04203.cpp",
+              "ToolTip": "C:\\Users\\stalt\\source\\repos\\\u041B\u04203\\\u041B\u04203\\\u041B\u04203.cpp",
+              "RelativeToolTip": "\u041B\u04203\\\u041B\u04203.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T13:21:56.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
